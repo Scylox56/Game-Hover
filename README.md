@@ -1,9 +1,14 @@
 # Hover-Flow 🎥✨
 
-<video autoplay loop muted playsinline width="800">
-  <source src="preview/HoverFlow.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+## 🎬 Live Preview
+
+<div align="center">
+
+[![Watch on YouTube](https://img.youtube.com/vi/1ng6UQTg4Xk/hqdefault.jpg)](https://youtu.be/1ng6UQTg4Xk)
+
+**▶ [Watch Live Preview on YouTube](https://youtu.be/1ng6UQTg4Xk)**
+
+</div>
 
   *"Where titles come alive"* 
   
