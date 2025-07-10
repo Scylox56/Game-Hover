@@ -1,0 +1,63 @@
+* {
+     cursor: none !important;
+}
+.custom-cursor {
+ position: fixed;
+ width: 16px;
+ height: 16px;
+ border-radius: 50%;
+ background: rgba(255, 255, 255, 0.9);
+ pointer-events: none;
+ z-index: 9999;
+ transform: translate(-50%, -50%);
+ mix-blend-mode: difference;
+ transition: transform 0.1s ease;
+ will-change: transform;
+ transform: translateZ(0);
+ backface-visibility: hidden;
+ }
+
+        
+ .file-input::file-selector-button {
+   background: #444;
+   color: white;
+   border: none;
+   padding: 0.5rem 1rem;
+   margin-right: 1rem;
+   border-radius: 4px;
+   transition: all 0.2s ease;
+}
+        
+.file-input::file-selector-button:hover {
+  background: #555;
+}
+        
+.counter-badge {
+ font-size: 0.7rem;
+ top: -8px;
+ right: -8px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 8px 0;
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.4);
+  z-index: 100;
+  background: linear-gradient(to top, rgba(36,36,36,0.8) 0%, transparent 100%);
+}
+
+.footer a {
+  color: rgba(255,255,255,0.6);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer a:hover {
+  color: hsl(var(--hue), 100%, 70%);
+  text-shadow: 0 0 8px currentColor;
+}
+    
