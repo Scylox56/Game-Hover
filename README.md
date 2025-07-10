@@ -1,17 +1,9 @@
 # Hover-Flow 🎥✨
 
-<div align="center">
-
-<iframe
-  width="800"
-  height="450"
-  src="https://www.youtube.com/embed/1ng6UQTg4Xk?autoplay=1&mute=1&loop=1&playlist=1ng6UQTg4Xk&controls=0&modestbranding=1&rel=0"
-  frameborder="0"
-  allow="autoplay; encrypted-media"
-  allowfullscreen
-></iframe>
-
-</div>
+<video autoplay loop muted playsinline width="800">
+  <source src="preview/HoverFlow.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
   *"Where titles come alive"* 
   
