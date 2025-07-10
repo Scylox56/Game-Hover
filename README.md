@@ -4,7 +4,7 @@
 
 <div align="center">
   <video autoplay loop muted playsinline width="800">
-    <source src="preview/HoverFlow.mp4" type="video/mp4">
+   <source src="preview/HoverFlow.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   
@@ -40,12 +40,17 @@
 
 ## 🛠️ Admin Simplicity
 
-<div align="center"> <img src="preview/admin-panel.png" alt="Admin interface" width="600"> </div>
-Drag & Drop Uploads: Add MP4/WebM videos effortlessly
+<div align="center">
+  <img src="preview/admin-panel.png" alt="Admin interface" width="600">
+</div>
 
-Live Previews: See changes immediately
+<p align="center">
+  <em>Drag & Drop uploads. Instant previews. Lightweight performance.</em><br>
+  - MP4/WebM Support<br>
+  - 3-Clip Limit for max smoothness<br>
+  - Changes reflect live
+</p>
 
-3-Clip Limit: Optimized for performance
 
 ## 💡 Inspired By
 Built upon concepts from [@mirayatech](https://github.com/mirayatech/Anime-Scene-Gallery)'s innovative design approach.
@@ -54,20 +59,9 @@ Built upon concepts from [@mirayatech](https://github.com/mirayatech/Anime-Scene
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>HTML5, CSS3, Vanilla JavaScript</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js, Express</td>
-  </tr>
-  <tr>
-    <td><strong>Styling</strong></td>
-    <td>Tailwind CSS + Custom Animations</td>
-  </tr>
-</table>
+- **Frontend**: HTML5, CSS3, Vanilla JavaScript  
+- **Backend**: Node.js, Express  
+- **Styling**: Tailwind CSS + Custom Animations
 
 ## 🚀 Quick Start
 
@@ -84,7 +78,7 @@ How To Access:
 **Showcase**: http://localhost:3000
 **Admin**: http://localhost:3000/admin.html
 
-<div align="center"> <br> <sup>Made with ❤️ and excessive hover effects</sup>
+<div align="center"> <br> <sup>Made with ❤️ and excessive hover effects</sup> </div>
 
 ## 📜 License
-MIT © [Scylox56]
+MIT © [Scylox56](https://github.com/Scylox56)
