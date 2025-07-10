@@ -32,7 +32,7 @@ document.getElementById('uploadForm').addEventListener('submit', async (e) => {
     }
 });
 
- // Custom cursor
+ // Custom cursor 
         document.addEventListener('mousemove', (e) => {
             const cursor = document.querySelector('.custom-cursor');
             cursor.style.left = `${e.clientX}px`;

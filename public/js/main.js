@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             grouped[video.title].push(video);
         });
 
-        // Generate HTML with wrapper
+        // Generate HTML with wrapper 
         container.innerHTML = Object.entries(grouped).map(([title, clips]) => `
             <div class="title-wrapper">
                 <div class="title">

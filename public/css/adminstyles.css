@@ -14,7 +14,7 @@
  transition: transform 0.1s ease;
  will-change: transform;
  transform: translateZ(0);
- backface-visibility: hidden;
+ backface-visibility: hidden; 
  }
 
         

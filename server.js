@@ -130,7 +130,7 @@ app.listen(PORT, () => {
   `);
 });
 
-// Error handling
+// Error handling 
 process.on('unhandledRejection', (err) => {
   console.error('Unhandled rejection:', err);
 });
